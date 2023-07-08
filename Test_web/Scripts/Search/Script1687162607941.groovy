@@ -19,15 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://bio-ngon.com/account/login')
+WebUI.navigateToUrl('https://bio-ngon.com/')
 
-WebUI.setText(findTestObject('Object Repository/Login/input_ng nhp_customeremail'), username)
+WebUI.setText(findTestObject('Search/input_Cng tc vin_q'), keyword)
 
-WebUI.setText(findTestObject('Object Repository/Login/input_Nhp email hoc s in thoi_customerpassword'), password)
+WebUI.sendKeys(findTestObject('Search/input_Cng tc vin_q'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Login/input_Mt khu_form_submit-login'))
-
-WebUI.verifyElementPresent(findTestObject('Login/h1_Ti khon ca bn'), 1)
+WebUI.verifyTextPresent('Kết quả tìm kiếm', false)
 
 WebUI.closeBrowser()
 

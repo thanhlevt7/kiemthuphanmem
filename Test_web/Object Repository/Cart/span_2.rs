@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2</name>
+   <tag></tag>
+   <elementGuidId>459cbb6a-6be4-4f80-af00-b49d1773d936</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='site-nav-cart']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.count-holder.header-site-nav-count</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>37fa612e-585d-4cb0-8dfd-00c9dc50f474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>count-holder header-site-nav-count</value>
+      <webElementGuid>ef57bde0-c73f-4947-9223-8d5838355ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+									2
+								</value>
+      <webElementGuid>2ad99966-0201-4b9a-bf37-a55be262a062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-nav-cart&quot;)/span[@class=&quot;count-holder header-site-nav-count&quot;]</value>
+      <webElementGuid>fc4833cb-5550-49fd-90a2-9b55762c6ab6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='site-nav-cart']/span[2]</value>
+      <webElementGuid>4398f2a8-4bd4-4ca7-98d4-1d179403f139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trở về đăng nhập'])[1]/following::span[3]</value>
+      <webElementGuid>60f64fc7-bfc4-46fa-a733-6154afe99487</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khôi phục'])[1]/following::span[3]</value>
+      <webElementGuid>ef1cb901-6ea1-4473-be8f-4b8b88c3039f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cải xoắn Kale (Gói 250g)'])[1]/preceding::span[3]</value>
+      <webElementGuid>e00ec044-f9ec-4407-bf83-8b3e70d53191</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cải xoắn Kale (Gói 250g)'])[2]/preceding::span[7]</value>
+      <webElementGuid>7caf7c91-4227-4366-af6d-db674cc5c5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>a6598690-b06d-4808-b0ba-b7c36547e328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+									2
+								' or . = '
+									2
+								')]</value>
+      <webElementGuid>6a3fa59e-6f26-4847-8955-9936fbdc3054</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

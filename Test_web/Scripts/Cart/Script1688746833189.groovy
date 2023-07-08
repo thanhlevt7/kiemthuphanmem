@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://bio-ngon.com/account/login')
+WebUI.navigateToUrl('https://bio-ngon.com/products/cai-xoan-kale')
 
-WebUI.setText(findTestObject('Object Repository/Login/input_ng nhp_customeremail'), username)
+WebUI.setText(findTestObject('Object Repository/Cart/input_GING RAU N I_quantity'), quantity)
 
-WebUI.setText(findTestObject('Object Repository/Login/input_Nhp email hoc s in thoi_customerpassword'), password)
+WebUI.click(findTestObject('Object Repository/Cart/button_Thm vo gi'))
 
-WebUI.click(findTestObject('Object Repository/Login/input_Mt khu_form_submit-login'))
+WebUI.click(findTestObject('Cart/span_2'))
 
-WebUI.verifyElementPresent(findTestObject('Login/h1_Ti khon ca bn'), 1)
+WebUI.verifyElementPresent(findTestObject('Cart/a_Ci xon Kale (Gi 250g)'), 1)
 
 WebUI.closeBrowser()
 

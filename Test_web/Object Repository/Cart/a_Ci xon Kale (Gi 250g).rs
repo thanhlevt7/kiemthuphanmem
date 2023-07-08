@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ci xon Kale (Gi 250g)</name>
+   <tag></tag>
+   <elementGuidId>7040d1e1-3478-4dd6-bf93-468e94519317</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='cart-view']/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#cart-view > tbody > tr.list-item > td.item > a.pro-title-view</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>315a8bd4-b62c-4b48-bc6e-386296ae501b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pro-title-view</value>
+      <webElementGuid>82b1dd49-a2e9-4684-b694-5e1d1e837857</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/products/cai-xoan-kale</value>
+      <webElementGuid>dfa6a873-6846-4233-9adb-61f71925d676</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>/products/cai-xoan-kale</value>
+      <webElementGuid>8a8d40bf-92ab-4997-ad7a-f4eb01d5ceb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cải xoắn Kale (Gói 250g)</value>
+      <webElementGuid>f209202a-dd99-40af-bcf4-d98023a4520a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-view&quot;)/tbody[1]/tr[@class=&quot;list-item&quot;]/td[@class=&quot;item&quot;]/a[@class=&quot;pro-title-view&quot;]</value>
+      <webElementGuid>4eeb94ef-3328-4a84-b012-8a96c907a04a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='cart-view']/tbody/tr/td[2]/a</value>
+      <webElementGuid>b0e2fb2a-655c-4c38-8506-7c1ebcbc2a8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Cải xoắn Kale (Gói 250g)')])[2]</value>
+      <webElementGuid>50c3d4d9-769e-43c8-ad7b-7c03ec901a7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cải xoắn Kale (Gói 250g)'])[1]/following::a[3]</value>
+      <webElementGuid>d3a3a855-5dc7-4601-a35f-e753961286bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trở về đăng nhập'])[1]/following::a[6]</value>
+      <webElementGuid>070b46ed-6d6a-4a65-9f34-fe0f4b6e5ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TỔNG TIỀN:'])[1]/preceding::a[2]</value>
+      <webElementGuid>9ab212af-0c2e-4ce2-83d6-2b5084b27653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/preceding::a[2]</value>
+      <webElementGuid>12afb5b5-5000-486c-905f-23cfbdfe8ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/products/cai-xoan-kale')])[4]</value>
+      <webElementGuid>e6366749-a7e5-4307-8c78-a0077a8ff856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/table/tbody/tr/td[2]/a</value>
+      <webElementGuid>3d978ba5-1eb6-41d2-a80a-4e6bd87b2d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/products/cai-xoan-kale' and @title = '/products/cai-xoan-kale' and (text() = 'Cải xoắn Kale (Gói 250g)' or . = 'Cải xoắn Kale (Gói 250g)')]</value>
+      <webElementGuid>82941481-c63a-4301-b296-220f1e762d8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

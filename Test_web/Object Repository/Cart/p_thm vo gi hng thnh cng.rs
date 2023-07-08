@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_thm vo gi hng thnh cng</name>
+   <tag></tag>
+   <elementGuidId>84f042e1-44da-4ad1-9566-097e260c91c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jGrowl']/div[2]/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.jGowl-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ae3a31a5-9d9a-49d2-bcb6-1fd6605f228e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jGowl-text</value>
+      <webElementGuid>d1a78e5c-f007-4932-acc6-8831cd0ce7de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đã thêm vào giỏ hàng thành công!</value>
+      <webElementGuid>5d87808a-d98d-40ff-9583-e75e9413d1a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jGrowl&quot;)/div[@class=&quot;jGrowl-notification alert ui-state-highlight ui-corner-all default&quot;]/div[@class=&quot;jGrowl-message&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 col-xs-12&quot;]/p[@class=&quot;jGowl-text&quot;]</value>
+      <webElementGuid>f1daf9c4-c221-4873-98f3-ed44359283f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jGrowl']/div[2]/div[2]/div/div/p</value>
+      <webElementGuid>1d403cf2-6fe0-4528-a0dd-737d67b8c9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::p[1]</value>
+      <webElementGuid>fb398977-d00b-475b-8e0d-727f2466764a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::p[1]</value>
+      <webElementGuid>226cb03a-f176-4b9c-90a3-da3bf28dff92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cải xoắn Kale (Gói 250g)'])[6]/preceding::p[1]</value>
+      <webElementGuid>5d4ad585-f9a4-446b-93d3-81e718a1dad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đã thêm vào giỏ hàng thành công!']/parent::*</value>
+      <webElementGuid>0835649c-b778-4718-b191-e8b47cff4d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/p</value>
+      <webElementGuid>3a83e2c2-f4a5-4978-8cc5-9aff31f86289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Đã thêm vào giỏ hàng thành công!' or . = 'Đã thêm vào giỏ hàng thành công!')]</value>
+      <webElementGuid>014dd80d-349d-443c-a31a-f810d3037f73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

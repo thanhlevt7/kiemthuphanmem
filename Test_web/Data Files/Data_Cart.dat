@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Data_Login</name>
+   <name>Data_Cart</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>c0644cba-83bc-41e5-a32b-017aeb82fc80</dataFileGUID>
+   <dataFileGUID>42c5479c-3cd9-4681-a0c0-25ac9c94c05f</dataFileGUID>
    <dataSourceUrl>C:\Users\84348\OneDrive\Desktop\data_ktpm\Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Đăng nhập</sheetName>
+   <sheetName>Giỏ hàng</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

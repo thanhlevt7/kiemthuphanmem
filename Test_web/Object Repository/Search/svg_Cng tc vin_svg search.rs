@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>svg_Cng tc vin_icon--user svg--icon</name>
+   <name>svg_Cng tc vin_svg search</name>
    <tag></tag>
-   <elementGuidId>f578b9c1-d45c-469d-806b-5c2cecb63286</elementGuidId>
+   <elementGuidId>1bfe6a76-b9c7-4bc7-b4e5-9654b56e61ff</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.icon--user.svg--icon</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cộng tác viên'])[2]/following::*[name()='svg'][2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Cộng tác viên'])[1]/following::*[name()='svg'][5]</value>
+         <key>CSS</key>
+         <value>#search-header-btn-mb > svg.svg.search</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,55 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>2b085f92-2827-4a43-bfef-7cbcdf629b76</webElementGuid>
+      <webElementGuid>61979f93-df68-45da-bf75-6c8eecdb721a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>52be59f7-d4ba-4089-ab41-5cd0321e20f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>icon--user svg--icon</value>
-      <webElementGuid>bb22393e-e0b0-4052-a0f2-01e61ad78890</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>a348c8a6-cb0c-4551-83cf-1d4d8fa4dcd4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>focusable</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>d8579111-1e1c-4b8b-8d38-6a2e3c2e4ded</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-prefix</name>
-      <type>Main</type>
-      <value>far</value>
-      <webElementGuid>c8fbc203-076f-4664-b643-79eaabbc492d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-icon</name>
-      <type>Main</type>
-      <value>user</value>
-      <webElementGuid>c2251e14-0049-444c-b7d7-dcfb41ba4996</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>img</value>
-      <webElementGuid>d7e21a90-afee-4300-8821-8760050d66ee</webElementGuid>
+      <value>svg search</value>
+      <webElementGuid>6417fc11-f9cb-448f-b2d3-6e316afefd74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,54 +46,86 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>ec45b906-990b-469a-8944-d554f1350e65</webElementGuid>
+      <webElementGuid>0110c6fe-448c-4788-bd0f-ca711ca6cdec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>5a46dc4a-108d-4c7c-91ec-1d7839371c05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>x</name>
+      <type>Main</type>
+      <value>0px</value>
+      <webElementGuid>6550c7dd-a096-46c5-809f-828f1178f10c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>y</name>
+      <type>Main</type>
+      <value>0px</value>
+      <webElementGuid>6e2cda31-19c4-43f7-87ab-d00c07b2caee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>viewBox</name>
       <type>Main</type>
-      <value>0 0 448 512</value>
-      <webElementGuid>8ebbca1d-9dd9-41a6-8ba6-5635414d0691</webElementGuid>
+      <value>0 0 24 27</value>
+      <webElementGuid>eca9365c-c1a2-4a69-949e-6e15a451e51f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xml:space</name>
+      <type>Main</type>
+      <value>preserve</value>
+      <webElementGuid>c3a1cb25-1947-402c-b4e0-ff9a866be339</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;site-nav-account&quot;)/span[@class=&quot;icon-box icon-account&quot;]/svg[@class=&quot;icon--user svg--icon&quot;]</value>
-      <webElementGuid>c1810c13-cf2e-487d-85da-48ceb4a38e08</webElementGuid>
+      <value>id(&quot;search-header-btn-mb&quot;)/svg[@class=&quot;svg search&quot;]</value>
+      <webElementGuid>23e1444e-5eee-4be2-847c-93837a3f5ab3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cộng tác viên'])[1]/following::*[name()='svg'][5]</value>
-      <webElementGuid>d66af7d3-ecbb-4c84-9ed6-e7df17581825</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cộng tác viên'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>1d2c6585-4750-49c6-9707-2c0d25728702</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chính sách thanh toán'])[1]/following::*[name()='svg'][5]</value>
-      <webElementGuid>32ce4268-2119-442f-baf6-7ed35e5b06c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chính sách thanh toán'])[2]/following::*[name()='svg'][2]</value>
+      <webElementGuid>b1ff8777-012c-4a50-bdb8-2473a40482fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin tài khoản'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>7a28139f-7bab-4f1d-92ef-58218d0b9934</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Súp lơ xanh (280-320g/bông)'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c0ffa062-fb98-4ab9-b5be-b6d0b826ef52</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tài khoản của tôi'])[1]/preceding::*[name()='svg'][2]</value>
-      <webElementGuid>3779c900-d716-4c36-ae7e-f3262b98e565</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Củ dền (220-260g/củ)'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>0bf906fd-a496-4977-b127-7482895ae197</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
