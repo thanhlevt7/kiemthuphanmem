@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Chng ti  gi email n trandangmail.com, xin vui lng vo lin kt trong mail  xc minh</name>
+   <tag></tag>
+   <elementGuidId>836c1264-6daf-4772-9253-919ec62de1e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.errors > ul > li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='create_customer']/div/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b98eba39-05d0-48f4-9f2a-3bc1b446b36e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chúng tôi đã gửi email đến trandan@gmail.com, xin vui lòng vào liên kết trong mail để xác minh.</value>
+      <webElementGuid>a0787834-f860-43d4-ad66-e4a939bf45c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;create_customer&quot;)/div[@class=&quot;errors&quot;]/ul[1]/li[1]</value>
+      <webElementGuid>9ab1e0e6-e426-4021-91d9-78f31eee037d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create_customer']/div/ul/li</value>
+      <webElementGuid>041cf8b4-f1c2-4536-9e8f-fbf8096f5c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký bằng số điện thoại'])[1]/following::li[1]</value>
+      <webElementGuid>97f1ea24-6939-4d78-a69f-eb2c457c921d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nữ'])[1]/preceding::li[1]</value>
+      <webElementGuid>e5b359b7-4cc8-4d25-89ba-ad388470654c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nam'])[1]/preceding::li[1]</value>
+      <webElementGuid>bd8a63df-0d65-4a53-9b75-03c028e0bd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chúng tôi đã gửi email đến trandan@gmail.com, xin vui lòng vào liên kết trong mail để xác minh.']/parent::*</value>
+      <webElementGuid>340a0142-222d-421e-8fa9-b7ef4aa72bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/ul/li</value>
+      <webElementGuid>8820a46a-15e5-44e5-9400-12c65d08558d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Chúng tôi đã gửi email đến trandan@gmail.com, xin vui lòng vào liên kết trong mail để xác minh.' or . = 'Chúng tôi đã gửi email đến trandan@gmail.com, xin vui lòng vào liên kết trong mail để xác minh.')]</value>
+      <webElementGuid>8cf2832c-67a5-4d45-8800-6130d54934e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

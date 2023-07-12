@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nam_btn</name>
+   <tag></tag>
+   <elementGuidId>d338583d-e9b1-413d-91b9-cc01588f4835</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Đăng ký']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>24dd68b6-92af-4ea1-9f8c-69bb4dac76bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn</value>
+      <webElementGuid>53ab5aa2-2e38-4f3c-bcd3-ef6308ba3a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>84096da6-3ddf-4e88-b23c-a7fcec0eb7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Đăng ký</value>
+      <webElementGuid>3e6f8b8b-fd87-4c72-a9e4-6b918f8df0c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;create_customer&quot;)/div[@class=&quot;clearfix action_account_custommer&quot;]/div[@class=&quot;action_bottom button dark&quot;]/input[@class=&quot;btn&quot;]</value>
+      <webElementGuid>d3356cde-f2bf-4574-8d11-848ceab95169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Đăng ký']</value>
+      <webElementGuid>e2bdd0b1-03b7-4606-a0f1-b0ec870d49da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='create_customer']/div[9]/div/input</value>
+      <webElementGuid>5ae6a90f-7b60-4bb1-9a09-fa580533e72a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/input</value>
+      <webElementGuid>613c5bb9-91f7-4972-a750-667635f3c4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>301404dc-b1ed-46c5-b496-7ebe3543a31c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

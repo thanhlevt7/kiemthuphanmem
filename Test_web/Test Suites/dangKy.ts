@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>dangKy</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>11cac613-9b66-487e-a057-e153b23b612d</testSuiteGuid>
+   <testCaseLink>
+      <guid>2e4711ea-1163-4b01-925c-d58ffeefb58a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/dangKy</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>606000d9-d706-414c-993d-a9d6422b0857</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_dangKy</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ho</value>
+         <variableId>b90a34aa-7105-4151-b440-ad5faee6a0c7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ten</value>
+         <variableId>cce5b2fc-f1cc-45b7-8c41-540e29f1b71e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nsinh</value>
+         <variableId>9636a87a-f2ed-4a4e-b32b-913a0cd03e43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>19316f47-5427-4039-91b9-3a8d427ea24e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sdt</value>
+         <variableId>88d38591-6671-4b6c-9497-88936985387c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>606000d9-d706-414c-993d-a9d6422b0857</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>20a81183-c649-4bb7-aeed-e8580d52de64</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

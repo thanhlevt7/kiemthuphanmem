@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>thanhToan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>181f31dd-9aab-4eb5-9502-850fdc9e3436</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f27b17b8-d325-4eab-94e5-faa776a3cbbf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>63bd7582-6f78-4267-a288-24688575adfb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8417519f-c36f-489c-8ea7-c1be533c455f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f27b17b8-d325-4eab-94e5-faa776a3cbbf</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63bd7582-6f78-4267-a288-24688575adfb</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8417519f-c36f-489c-8ea7-c1be533c455f</id>
+      <masked>false</masked>
+      <name>sdt</name>
+   </variable>
+</TestCaseEntity>

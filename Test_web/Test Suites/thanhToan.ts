@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>thanhToan</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>927ce514-2ad3-47c6-aee4-e0aab80f84e0</testSuiteGuid>
+   <testCaseLink>
+      <guid>894c6f18-e005-46a9-b2ae-53c1ace2289a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/thanhToan</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>383e3b6d-6677-41c5-a32d-ad81b3f47fc9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_thanhToan</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>383e3b6d-6677-41c5-a32d-ad81b3f47fc9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>name</value>
+         <variableId>f27b17b8-d325-4eab-94e5-faa776a3cbbf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>383e3b6d-6677-41c5-a32d-ad81b3f47fc9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>63bd7582-6f78-4267-a288-24688575adfb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>383e3b6d-6677-41c5-a32d-ad81b3f47fc9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sdt</value>
+         <variableId>8417519f-c36f-489c-8ea7-c1be533c455f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

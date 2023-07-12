@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Data_Search</name>
+   <name>Data_thanhToan</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>49ede08a-6bbb-4d1c-a12e-6c83f743cc5c</dataFileGUID>
+   <dataFileGUID>bfa11904-dc24-4662-b1ef-a7742dc566b9</dataFileGUID>
    <dataSourceUrl>C:\Users\84348\OneDrive\Desktop\tannghia\kiemthuphanmem\Data.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>Tìm kiếm</sheetName>
+   <sheetName>Thanh toán</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thanh ton</name>
+   <tag></tag>
+   <elementGuidId>31773213-cbcf-4188-933e-7a7a88335e36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='site-header']/div[2]/div/div/div[4]/div[3]/div/div/div/table[2]/tbody/tr[2]/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.linktocheckout.button.drakpay</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>771f53f3-00d9-4642-b452-6a224b3c19c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/checkout</value>
+      <webElementGuid>07cd64fe-d6eb-483a-9a8b-bb5b965294b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linktocheckout button drakpay</value>
+      <webElementGuid>d08d309b-a9b6-4055-acc2-247109d366a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thanh toán</value>
+      <webElementGuid>497baaf7-b074-43c4-8fd7-9647e5974b45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;header_middle&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;flexContainer-header flexAlignCenter rowFlexMargin&quot;]/div[@class=&quot;header-wrap-icon&quot;]/div[@class=&quot;wrap_cart header--icon active&quot;]/div[@class=&quot;site--nav site_cart&quot;]/div[@class=&quot;site-nav-container&quot;]/div[@class=&quot;cart-view clearfix&quot;]/table[@class=&quot;table-total&quot;]/tbody[1]/tr[2]/td[2]/a[@class=&quot;linktocheckout button drakpay&quot;]</value>
+      <webElementGuid>4639e0e9-5763-4572-9328-f05e7d182ca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div[2]/div/div/div[4]/div[3]/div/div/div/table[2]/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>1f23f041-5559-4b53-b312-92016fbc93b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thanh toán')]</value>
+      <webElementGuid>ee2607b3-f2c3-4243-b1bc-e7c2a91de721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/following::a[1]</value>
+      <webElementGuid>d6b9e070-3dfb-41cb-9005-abc5c7cc4d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TỔNG TIỀN:'])[1]/following::a[2]</value>
+      <webElementGuid>7c683bf1-4301-4e0f-88bd-e328f637f563</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SẢN PHẨM'])[3]/preceding::a[2]</value>
+      <webElementGuid>f6585843-7810-473d-8ca4-e69194d1536f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rau ăn lá'])[2]/preceding::a[3]</value>
+      <webElementGuid>80b6dd9e-f967-4921-82cd-1e1d9df681a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thanh toán']/parent::*</value>
+      <webElementGuid>f47528e0-39e5-45e4-bff8-4080457b8cc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/checkout')]</value>
+      <webElementGuid>a8b28399-6399-4c7c-85a8-c76e2ddebcea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/a</value>
+      <webElementGuid>c79bca65-eb81-4136-b52e-249472535312</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/checkout' and (text() = 'Thanh toán' or . = 'Thanh toán')]</value>
+      <webElementGuid>8df8128a-950b-4f3e-9e99-ae4a48a3dd40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

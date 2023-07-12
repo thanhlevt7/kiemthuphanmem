@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cng tc vin_icon-box icon-account</name>
+   <tag></tag>
+   <elementGuidId>b9cdaf81-6f7b-40a3-a456-68129088c01c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='site-nav-account']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-box.icon-account</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94aac84e-8962-495a-bd6b-815c4d58b016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-box icon-account</value>
+      <webElementGuid>70cd5861-03f1-40be-a20e-c65582eaa303</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-nav-account&quot;)/span[@class=&quot;icon-box icon-account&quot;]</value>
+      <webElementGuid>0693dd47-d408-4ba4-810c-c1998426190d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='site-nav-account']/span</value>
+      <webElementGuid>299061cd-a613-4e69-a42e-a691bf2cca88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cộng tác viên'])[1]/following::span[4]</value>
+      <webElementGuid>69bbc2b9-845e-4085-9202-3b4f0d35cd25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chính sách thanh toán'])[1]/following::span[4]</value>
+      <webElementGuid>2894cea4-a41b-4f0c-bc03-46f00f18b073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập tài khoản'])[1]/preceding::span[2]</value>
+      <webElementGuid>a8c8487f-d2ab-4aff-a047-b2096cf358e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập email hoặc số điện thoại'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d18e68d-6197-44a4-a04f-767ee556d984</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>576153a8-8b4d-4738-bad7-cea2c8009fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
